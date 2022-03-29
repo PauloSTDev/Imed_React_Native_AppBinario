@@ -10,6 +10,7 @@ export default function App() {
       <Text style={styles.title}>Aquelas que entendem binário e aquelas que não entendem!</Text>
       <Text style={styles.title}>Selecione a resposta abaixo</Text>
       <StatusBar style="auto" />
+      
     </View>
   );
 }

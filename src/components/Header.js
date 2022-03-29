@@ -12,15 +12,14 @@ export default function Header() {
 const styles = StyleSheet.create({
     headerFont: {
         color: "#ededed",
-        fontSize: 20,
-        marginTop: 15
+        fontSize: 30,
+        marginTop: 15, 
+        paddingBottom: 10
     },
     headerBack: {
-        backgroundColor: "#3a67b0",
+        backgroundColor: "#8531bd",
         height: 70,
         alignItems: "center",
         justifyContent: "center"
     }
-
-
 })
